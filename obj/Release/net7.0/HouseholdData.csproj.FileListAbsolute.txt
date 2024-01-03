@@ -1,0 +1,14 @@
+/home/malechus/source/repos/HouseholdData/bin/Release/net7.0/HouseholdData.deps.json
+/home/malechus/source/repos/HouseholdData/bin/Release/net7.0/HouseholdData.runtimeconfig.json
+/home/malechus/source/repos/HouseholdData/bin/Release/net7.0/HouseholdData.dll
+/home/malechus/source/repos/HouseholdData/bin/Release/net7.0/HouseholdData.pdb
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.csproj.AssemblyReference.cache
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.GeneratedMSBuildEditorConfig.editorconfig
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.AssemblyInfoInputs.cache
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.AssemblyInfo.cs
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.csproj.CoreCompileInputs.cache
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.dll
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/refint/HouseholdData.dll
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.pdb
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/HouseholdData.genruntimeconfig.cache
+/home/malechus/source/repos/HouseholdData/obj/Release/net7.0/ref/HouseholdData.dll
